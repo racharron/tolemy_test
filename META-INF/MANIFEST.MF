@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Tolemy_test
+Bundle-SymbolicName: tolemy.test;singleton:=true
+Bundle-Version: 0.1
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ tolemy;bundle-version="0.1.0"
+Bundle-RequiredExecutionEnvironment: JavaSE-10
+Automatic-Module-Name: tolemy.test
